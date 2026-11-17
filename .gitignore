@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+artifacts/
+*.mp4
+*.jpg
+*.png
+*.npy
+*.npz
+*_atd.*
+*_homography.csv
+*_smart_tagging.xml
+*.tmp

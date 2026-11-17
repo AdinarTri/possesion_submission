@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "expected_frames": 199319,
+  "fps": 25,
+  "half_blocks_inclusive": [[11185, 90651], [110808, 190197]],
+  "control_radius_m": 2.0,
+  "opponent_margin_m": 0.5,
+  "control_confirmation_seconds": 1.0,
+  "outside_confirmation_seconds": 0.5,
+  "missing_hold_seconds": 2.0
+}
